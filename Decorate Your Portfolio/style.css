@@ -1,0 +1,27 @@
+body {
+    border-radius:50px;
+    background-image: url(" http://www.trentonphoto.org/images/bridge-2-e1527126823332.jpg");
+    background-color: #cccccc; 
+    height: 600px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+        
+}
+body {
+    color: white;
+}
+   h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+   h2 {
+    font-family: Arial, Helvetica, sans-serif
+  }
+   h3 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  p {
+    font-family:  Arial , Helvetica , sans-serif;
+  }
+ .crosshair {cursor:crosshair;}
